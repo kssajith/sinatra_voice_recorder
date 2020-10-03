@@ -1,15 +1,15 @@
-#Voice Recorder using Recordjs
+# Voice Recorder using Recordjs
 A simple sinatra application to tryout the Record.js library to record audio from browser.
 
-##Prerequisites
+## Prerequisites
 - ruby-2.6.3 (As I developed in this. Tryout with your latest ruby version)
 
-##Setup
+## Setup
 - Clone the repository
 - Run `bundle install` from the root directory
 
-##Run
+## Run
 - Execute `ruby app.rb` from the root directory
 
-##Resources
-- Copied the voice recording JS code from here : https://github.com/addpipe/simple-recorderjs-demo
+## Resources
+- Recordjs reference : https://github.com/addpipe/simple-recorderjs-demo
